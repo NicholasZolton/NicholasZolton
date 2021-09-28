@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NicholasZolton
+- 👀 I’m interested in doing backend Java development, Data Science, and Cloud Computing.
+- 🌱 I’m currently learning C++ at UTD as well as Python and Java in my personal time.
+- 💞️ I’m looking to collaborate on any open source projects.
+- 📫 Feel free to email me at nicholaszolton@gmail.com!
