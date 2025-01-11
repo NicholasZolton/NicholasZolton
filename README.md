@@ -5,3 +5,5 @@
 - 📫 Feel free to contact me at nicholaszolton@gmail.com with any questions or concerns!
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NicholasZolton/langs)](https://githubtrends.io)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NicholasZolton&hide_border=true)](https://git.io/streak-stats)
