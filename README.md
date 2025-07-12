@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NicholasZolton
-- 👀 I'm interested in working on pretty much any opensource project that I use.
+- 👋 Hi, I'm @NicholasZolton!
+- 👀 I'm interested in distributed cloud-native projects and almost anything related to the developer experience or self-hosting.
 - 🌱 I'm currently working professionally on distributed AI systems, as well as my own personal Neovim configuration and API templates.
 - 💞️ I’m looking to collaborate on any open source projects.
 - 📫 Feel free to contact me at nicholaszolton@gmail.com with any questions or concerns!
