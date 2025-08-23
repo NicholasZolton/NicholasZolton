@@ -1,7 +1,6 @@
 - 👋 Hi, I'm @NicholasZolton!
 - 👀 I'm interested in distributed cloud-native projects and almost anything related to the developer experience or self-hosting.
-- 🌱 I'm currently working professionally on distributed AI systems, as well as my own personal Neovim configuration and API templates.
-- 💞️ I’m looking to collaborate on any open source projects.
+- 🌱 I'm currently working on buliding cutting-edge distributed AI systems at Happyverse. 
 - 📫 Feel free to contact me at nicholaszolton@gmail.com with any questions or concerns!
 
 Checkout [my website](https://nicholaszolton.dev/) or [my blog](https://blog.nicholaszolton.dev/) for more info!
